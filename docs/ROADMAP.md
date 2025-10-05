@@ -1,7 +1,7 @@
 # QuantDesk Roadmap (Public)
 
 ## Q4 2025
-- Public docs & hackathon demo readiness ✅
+- Public docs & Demo readiness ✅
 - RPC Load Balancer v1 monitoring endpoints ✅
 - Smart Money signal summaries (public docs) ✅
 

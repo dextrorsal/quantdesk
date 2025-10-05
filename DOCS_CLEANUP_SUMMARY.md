@@ -5,4 +5,4 @@
 - Restored current RPC Load Balancer, Smart Money, Analytics Writer, Data Pipeline docs
 - Added Postman setup and CI/CD docs
 
-Goal: provide a clean, public-facing overview for hackathon demos and reviewers without exposing internal code.
+Goal: provide a clean, public-facing overview for product demos and reviewers without exposing internal code.

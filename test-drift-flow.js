@@ -97,7 +97,7 @@ async function simulateDriftFlow() {
     console.log('✅ IDL loaded successfully');
     console.log('✅ Account creation flow understood');
     console.log('✅ Deposit process ready');
-    console.log('\n🚀 Your QuantDesk app is ready for hackathon!');
+    console.log('\n🚀 Your QuantDesk app is ready for demo!');
 }
 
 // Run the simulation

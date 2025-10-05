@@ -258,7 +258,7 @@ scene_greeting() {
     echo -e "${BRIGHT_RED}${BOLD}╚══════════════════════════════════════════════════════════╝${NC}"
     echo ""
     
-    hacker_typing "🚀 Welcome to QuantDesk - Your AI-Powered Trading Terminal" 0.02
+    hacker_typing "🚀 Welcome to QuantDesk - Your Quantitative Trading Terminal" 0.02
     echo ""
     rainbow_text "📊 READY TO TRADE LIKE A TRUE QUANT"
     echo ""
@@ -270,7 +270,7 @@ scene_greeting() {
     echo -e "${BRIGHT_GREEN}   • Advanced risk management${NC}"
     echo -e "${BRIGHT_GREEN}   • Easy onboarding into quantitative trading${NC}"
     echo ""
-    glitch_text "🤖 POWERED BY AI AND REAL-TIME DATA"
+    glitch_text "⚙️  POWERED BY REAL-TIME DATA"
     echo ""
     hacker_typing "Let's explore the unified command center..." 0.02
     sleep 1
@@ -622,7 +622,7 @@ main() {
     
     # FAKE-OUT INTRO - Rick dancing for 2-3 seconds
     clear
-    echo -e "${BRIGHT_CYAN}🎬 QUANTDESK HACKATHON UPDATE VIDEO${NC}"
+    echo -e "${BRIGHT_CYAN}🎬 QUANTDESK PLATFORM UPDATE${NC}"
     echo ""
     echo -e "${BRIGHT_YELLOW}Loading epic update video...${NC}"
     echo ""
